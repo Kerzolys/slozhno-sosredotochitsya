@@ -21,12 +21,6 @@
   inline-size: 100%;
 }
 
-/* @media (width <= 767px) {
-  .content-section {
-    padding-inline: 10px;
-  }
-} */
-
 .heading {
   font-family: var(--font-text);
   font-size: 18px;
