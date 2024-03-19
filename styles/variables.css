@@ -5,9 +5,10 @@
 :root {
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
-  --font-text: 'IBM Plex mono', Arial, "Helvetica Neue", Helvetica, sans-serif;
+  --font-text: 'IBM Plex mono', 'Courier New', Courier, monospace;
   --accent-bc-color: #FF0070;
   --accent-decoration-color: #FF0070;
+  --accent-decoration-color-opacity: rgba(255, 0, 112, 0.4);
   --accent-text-color: #FF0070;
   --color-heading: #000028;
   --color-text: #F1B2CE;

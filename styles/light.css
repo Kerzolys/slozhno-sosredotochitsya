@@ -11,9 +11,10 @@
   */
   --background-image: url(../images/cover-image-light.png);
   --background-color: #fff1f7;
-  --font-text: "IBM Plex mono", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  --font-text: "IBM Plex mono", "Courier New", Courier, monospace;
   --accent-bc-color: #ff8dcb;
   --accent-decoration-color: #353430;
+  --accent-decoration-color-opacity: rgba(50, 49, 45, 0.4);
   --accent-text-color: #353430;
   --color-heading: #353430;
   --color-text: #353430;
@@ -25,9 +26,10 @@
   .page {
     --background-image: url(../images/cover-image-light.png);
     --background-color: #fff1f7;
-    --font-text: "IBM Plex mono", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    --font-text: "IBM Plex mono", "Courier New", Courier, monospace;
     --accent-bc-color: #ff8dcb;
     --accent-decoration-color: #353430;
+    --accent-decoration-color-opacity: rgba(50, 49, 45, 0.4);
     --accent-text-color: #353430;
     --color-heading: #353430;
     --color-text: #353430;
