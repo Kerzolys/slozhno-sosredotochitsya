@@ -23,7 +23,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  .page {
+  :root {
     --background-image: url(../images/cover-image-light.png);
     --background-color: #fff1f7;
     --font-text: "IBM Plex mono", "Courier New", Courier, monospace;
